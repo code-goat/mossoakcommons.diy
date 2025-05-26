@@ -1,0 +1,48 @@
+[[main]]
+name = "Services"
+weight = 20
+
+[[main]]
+name = "Portable Milling"
+parent = "Services"
+#pageRef = "services/portable_milling"
+weight = 20
+
+[[main]]
+name = "Build Design"
+parent = "Services"
+#pageRef = "services/hacker_manifesto"
+weight = 20
+
+[[main]]
+name = "Construction"
+parent = "Services"
+#pageRef = "services/technofeudalism"
+weight = 20
+
+
+[[main]]
+name = "Gallery"
+pageRef = "gallery"
+weight = 40
+
+[[main]]
+name = "Meet the Team"
+pageref = "team"
+weight = 30
+
+[[main]]
+name = "About Us"
+pageRef = "about"
+weight = 10
+
+[[footer]]
+name = "Tags"
+pageRef = "tags"
+weight = 10
+
+[[footer]]
+name = "Categories"
+pageRef = "categories"
+weight = 20
+

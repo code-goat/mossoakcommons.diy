@@ -1,0 +1,15 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Angleton Custom Mill & Build"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "April 20 2025"
+logo = "AngletonCustomLogo.png"
+description = "Angleton Custom Mill & Build"
+author = { name = "Angleton Custom Mill & Build", email = "contact@angletoncustom.com", image = "AngletonCustomLogo.png", imageQuality = 96, headline = "Mill & Build", bio = "Your friendly neighborhood mill & build.", links = [ { email = "mailto:contact@angletoncustom.com" }, { youtube = "https://youtube.com/username" }, { instagram = "https://instagram.com/username" }, { bluesky = "https://bsky.app/profile/username" } ] }
+secondaryLogo = "AngletonCustomLogo.png"

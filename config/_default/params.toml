@@ -1,0 +1,113 @@
+colorScheme = "fire"
+defaultAppearance = "dark"
+autoSwitchAppearance = false
+enableSearch = false
+enableCodeCopy = false
+replyByEmail = false
+disableImageOptimization = false
+disableTextInHeader = false
+giteaDefaultServer = "https://git.fsfe.org"
+forgejoDefaultServer = "https://v8.next.forgejo.org"
+defaultBackgroundImage = "daniel-schneemann-IiVfi4-EEHc-unsplash.jpg"
+defaultFeaturedImage = "blackcap.png"
+highlightCurrentMenuArea = true
+smartTOC = true
+
+[header]
+layout = "fixed"
+
+[footer]
+showMenu = true
+showCopyright = true
+showThemeAttribution = false
+showAppearanceSwitcher = true
+showScrollToTop = true
+
+[homepage]
+layout = "background"
+homepageImage = "daniel-schneemann-IiVfi4-EEHc-unsplash.jpg"
+showRecent = false
+showRecentItems = "5"
+showMoreLink = true
+showMoreLinkDest = "/docs/"
+cardView = true
+cardViewScreenWidth = true
+layoutBackgroundBlur = true
+
+[article]
+showDate = false
+showViews = false
+showLikes = false
+showDateOnlyInArticle = true
+showDateUpdated = false
+showAuthor = false
+showHero = true
+heroStyle = "big"
+layoutBackgroundBlur = true
+layoutBackgroundHeaderSpace = true
+showBreadcrumbs = false
+showDraftLabel = true
+showEdit = false
+editAppendPath = true
+seriesOpened = true
+showHeadingAnchors = true
+showPagination = true
+invertPagination = false
+showReadingTime = true
+showTableOfContents = true
+showTaxonomies = true
+showAuthorsBadges = true
+showWordCount = true
+showZenMode = true
+
+[list]
+showHero = true
+layoutBackgroundBlur = true
+layoutBackgroundHeaderSpace = true
+showBreadcrumbs = false
+showSummary = false
+showViews = false
+showLikes = false
+showTableOfContents = false
+showCards = false
+orderByWeight = false
+groupByYear = true
+cardView = true
+cardViewScreenWidth = true
+constrainItemsWidth = true
+
+[sitemap]
+excludedKinds = [ "taxonomy", "term" ]
+
+[taxonomy]
+showTermCount = true
+showHero = false
+showBreadcrumbs = false
+showViews = false
+showLikes = false
+showTableOfContents = false
+cardView = false
+
+[term]
+showHero = false
+showBreadcrumbs = false
+showViews = false
+showLikes = false
+showTableOfContents = true
+groupByYear = false
+cardView = false
+cardViewScreenWidth = false
+
+[firebase]
+
+[fathomAnalytics]
+
+[umamiAnalytics]
+
+[selineAnalytics]
+
+[buymeacoffee]
+
+[verification]
+
+[rssnext]
