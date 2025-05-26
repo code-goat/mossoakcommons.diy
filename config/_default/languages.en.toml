@@ -2,14 +2,14 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Angleton Custom Mill & Build"
+title = "Moss Oak Commons"
 
 [params]
 displayName = "EN"
 isoCode = "en"
 rtl = false
 dateFormat = "April 20 2025"
-logo = "AngletonCustomLogo.png"
-description = "Angleton Custom Mill & Build"
-author = { name = "Angleton Custom Mill & Build", email = "contact@angletoncustom.com", image = "AngletonCustomLogo.png", imageQuality = 96, headline = "Mill & Build", bio = "Your friendly neighborhood mill & build.", links = [ { email = "mailto:contact@angletoncustom.com" }, { youtube = "https://youtube.com/username" }, { instagram = "https://instagram.com/username" }, { bluesky = "https://bsky.app/profile/username" } ] }
-secondaryLogo = "AngletonCustomLogo.png"
+logo = "mossoak-logo_circle.png"
+description = "Moss Oak Commons"
+author = { name = "Moss Oak Commons", email = "contact@mossoakcommons.diy", image = "mossoak-logo_circle.png", imageQuality = 96, headline = "Community Space", bio = "Your friendly neighborhood infoshop", links = [ { email = "mailto:contact@mossoakcommons.diy" }, { youtube = "https://youtube.com/username" }, { instagram = "https://instagram.com/username" }, { bluesky = "https://bsky.app/profile/username" } ] }
+secondaryLogo = "fern.png"
