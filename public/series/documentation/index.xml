@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Documentation on Moss Oak Commons</title>
+    <title>Documentation on 𝕄𝕆𝕊𝕊 𝕆𝔸𝕂 ℂ𝕆𝕄𝕄𝕆ℕ𝕊</title>
     <link>http://localhost:1313/series/documentation/</link>
-    <description>Recent content in Documentation on Moss Oak Commons</description>
+    <description>Recent content in Documentation on 𝕄𝕆𝕊𝕊 𝕆𝔸𝕂 ℂ𝕆𝕄𝕄𝕆ℕ𝕊</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>contact@mossoakcommons.diy (Moss Oak Commons)</managingEditor>
-    <webMaster>contact@mossoakcommons.diy (Moss Oak Commons)</webMaster>
-    <copyright>© 2025 Moss Oak Commons</copyright>
+    <managingEditor>contact@mossoakcommons.diy (𝕄𝕆𝕊𝕊 𝕆𝔸𝕂 ℂ𝕆𝕄𝕄𝕆ℕ𝕊)</managingEditor>
+    <webMaster>contact@mossoakcommons.diy (𝕄𝕆𝕊𝕊 𝕆𝔸𝕂 ℂ𝕆𝕄𝕄𝕆ℕ𝕊)</webMaster>
+    <copyright>© 2025 𝕄𝕆𝕊𝕊 𝕆𝔸𝕂 ℂ𝕆𝕄𝕄𝕆ℕ𝕊</copyright>
     <atom:link href="http://localhost:1313/series/documentation/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Docs</title>
       <link>http://localhost:1313/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@mossoakcommons.diy (Moss Oak Commons)</author>
+      <author>contact@mossoakcommons.diy (𝕄𝕆𝕊𝕊 𝕆𝔸𝕂 ℂ𝕆𝕄𝕄𝕆ℕ𝕊)</author>
       <guid>http://localhost:1313/projects/</guid>
       <description></description>
       
