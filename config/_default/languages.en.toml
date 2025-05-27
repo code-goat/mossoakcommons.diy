@@ -11,5 +11,5 @@ rtl = false
 dateFormat = "April 20 2025"
 logo = "mossoak-logo_circle.png"
 description = "Moss Oak Commons"
-author = { name = "Moss Oak Commons", email = "contact@mossoakcommons.diy", image = "mossoak-logo_circle.png", imageQuality = 96, headline = "Community Space", bio = "Your friendly neighborhood infoshop", links = [ { email = "mailto:contact@mossoakcommons.diy" }, { youtube = "https://youtube.com/username" }, { instagram = "https://instagram.com/username" }, { bluesky = "https://bsky.app/profile/username" } ] }
+author = { name = "Moss Oak Commons", email = "contact@mossoakcommons.diy", image = "mossoak-logo_circle.png", imageQuality = 96, headline = "1905 Alliance Rd.", bio = "Your friendly neighborhood infoshop", links = [ { email = "mailto:contact@mossoakcommons.diy" }, { youtube = "https://youtube.com/username" }, { instagram = "https://instagram.com/username" }, { bluesky = "https://bsky.app/profile/username" } ] }
 secondaryLogo = "fern.png"
