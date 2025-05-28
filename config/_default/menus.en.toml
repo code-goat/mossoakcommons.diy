@@ -26,9 +26,10 @@ weight = 20
 # weight = 20
 
 [[main]]
-name = "Calender"
-pageRef = "about"
+name = "Calendar"
+url = "https://mossoak.woodpecker-decibel.ts.net"
 weight = 30
+
 
 [[footer]]
 name = "Tags"
